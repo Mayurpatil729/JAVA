@@ -1,0 +1,43 @@
+import java.lang.String;
+
+String ==> 
+
+
+objects : 
+equal
+
+
+
+Methods : 
+
+equalsIgnoreCase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
