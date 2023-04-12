@@ -1,4 +1,4 @@
- import java.util.*;
+import java.util.*;
 
 class SwapNumbers3{
     public static void main(String[] args)
@@ -16,11 +16,12 @@ class SwapNumbers3{
         z=y;
         y=x;
         x=z;
-         
+
         System.out.println("\nNumbers After Swaping : ");
         System.out.println("x="+x);
         System.out.println("y="+y);
         in.close();
+
     }
 }
 

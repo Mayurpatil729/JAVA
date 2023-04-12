@@ -1,21 +1,24 @@
 import java.lang.String;
 
-String ==> 
+String ==> class
 
 
 objects : 
 equal
 
+Methods : Syntax ==> Return_type method_name(parameters)
 
-
-Methods : 
-
+length()
+charAt(index)
 equalsIgnoreCase
-
-
-
-
-
+lastIndexOf("char")
+endsWith("char")
+startsWith("char")
+toLowerCase()
+toUpperCase()
+trim()
+substring(6)
+substring(6,8)
 
 
 
