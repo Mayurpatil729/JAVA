@@ -8,6 +8,6 @@ class StringLength{
         String s=in.nextLine();
         in.close(); 
         
-        System.out.println("Length : "+ s.length);
+        System.out.println("Length : "+s.length());
     }
 }

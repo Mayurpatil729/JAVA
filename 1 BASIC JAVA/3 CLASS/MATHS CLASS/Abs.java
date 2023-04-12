@@ -18,3 +18,14 @@ public class Abs {
         System.out.println("2^6 :"+Math.pow(2,6));
     }
 }
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
-import java.math.*;
-import java.lang.*;
+// import java.math.*;
+// import java.lang.*;
 
 public class Sample2 {
     public static void main(String[] args) {
@@ -9,3 +9,7 @@ public class Sample2 {
     }
     
 }
+
+
+
+
