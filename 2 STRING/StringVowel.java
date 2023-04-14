@@ -3,8 +3,7 @@ import java.util.*;
 class StringVowel{
     public static void main(String...args) {
         Scanner in=new Scanner(System.in);
-        // in.close();
-
+        in.close();
         int c=0,x;
         System.out.println("Enter the String : ");
         String s=in.nextLine();
@@ -18,7 +17,6 @@ class StringVowel{
             }
         } 
         System.out.println("Vowels : "+c);
-        in.close();
     }
 }
 
