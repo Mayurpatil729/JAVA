@@ -1,7 +1,7 @@
 // import java.util.*;
 import java.lang.String;
 
-public class BasicString {
+class BasicString {
     public static void main(String[] args){
 
         String s1 = "James potter";
