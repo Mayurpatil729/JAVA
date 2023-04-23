@@ -17,7 +17,7 @@ class BigFactorial
         for (c = 1; c <= n; c++) {
         fact = fact.multiply(inc);
         inc = inc.add(BigInteger.ONE);
-         }
+        }
         System.out.println(n + "! = " + fact);
     }
 }
@@ -36,7 +36,7 @@ class BigFactorial
 //         long n=in.nextInt();
 //         long i,fact=1;
 //         in.close();
-        
+
 //         for(i=1;i<=n;i++){
 //             fact=fact*i;
 //         }

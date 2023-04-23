@@ -38,6 +38,5 @@ class DataType{
     
         System.out.println(b1);
         System.out.println();
-        
     }
 }

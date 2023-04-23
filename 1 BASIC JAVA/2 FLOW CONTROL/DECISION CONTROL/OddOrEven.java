@@ -8,7 +8,7 @@ class OddOrEven{
         System.out.println("Enter the number to check given number is odd or even : ");
         int n=in.nextInt();
         
-        if(n%2==0)
+        if (n%2==0)
         System.out.println("Given number is even ");
         else
         System.out.println("Given number is odd ");

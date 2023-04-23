@@ -17,6 +17,10 @@ class PositiveNegative {
         {
             System.out.println(n+" is negative number");
         }
+        else
+        {
+            System.out.println("it is zero");
+        }
     }
 }
 

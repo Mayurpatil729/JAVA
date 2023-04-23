@@ -1,0 +1,52 @@
+1. StringBuffer(): It creates an empty string buffer and reserves space for 16 
+characters.
+2. StringBuffer(int size): It creates an empty string and takes an integer 
+argument to set capacity of the buffer.
+3. StringBuffer(String str): It creates a stringbuffer object from the specified 
+string.
+4. StringBuffer(char []ch): It creates a stringbuffer object from the 
+charsequence array
+
+
+StringBuffer append(T value)
+StringBuffer insert(int index, T value)
+StringBuffer delete (int start, int end)
+StringBuffer deleteCharAt (int index)
+StringBuffer replace (int start, int end, String newString)
+StringBuffer reverse()
+
+
+String ==>
+1. Characters of String cannot be changed.
+2. String is immutable. 
+3. Processing of String is slow
+4. At the time of String concatenation, String consumes more memory space.
+
+
+StringBuffer ==>
+1. Characters of StringBuffer can be changed.
+2. StringBuffer is mutable.
+3. Processing of StringBuffer is fast.
+4. At the time of String concatenation, StringBuffer consumes less memory space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
