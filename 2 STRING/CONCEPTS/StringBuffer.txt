@@ -32,7 +32,20 @@ StringBuffer ==>
 
 
 
+Difference Betweeen string and stringbuffer
+1.once we creates a string object we can't perform any changes in the existing object.
+if we are trying to perform any changes with those changes a new object will be created.
+This non changeable nature is nothing but immutability of the string object.
 
+2. Once we creates a StringBuffer object we can perform any type of changes in the existing
+object. this changeable is nothing but mutability of the stringBuffer object.
+
+
+1.If the content is fixed and won't change frequently then we should go for string.
+2.If the content is not fixed and keep on changing but Thread Safety is required then we should go
+for StringBuffer.
+3. If the content is not fixed and keep on changing and thread safety is not required then we should go for
+StringBuilder.
 
 
 
