@@ -1,2 +1,4 @@
 1. checked vs unchecked
-final,finalize
+2. final,finally, finalize
+3. Throw and Throws 
+4. 
