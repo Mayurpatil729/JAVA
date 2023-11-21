@@ -5,7 +5,7 @@ public class ExceptionMethods {
 
         try
         {
-            System.out.println(10/0);
+            // System.out.println(10/0);
             // System.out.println(10/2);
         }
         
@@ -18,3 +18,13 @@ public class ExceptionMethods {
         
     }
 }
+
+
+
+
+
+
+
+
+
+
