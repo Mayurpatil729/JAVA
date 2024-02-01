@@ -1,6 +1,6 @@
 // package 6 EXCEPTION HANDLING;
 
-public class Test {
+public class ExceptionTest {
     public static void main(String[] args){
         doStuff();
     }
