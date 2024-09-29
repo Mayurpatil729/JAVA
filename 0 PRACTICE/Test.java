@@ -1,5 +1,11 @@
-class Test{
+// class Test{
+//     public static void main(String[] args) {
+//         for(;;){}
+//     }
+// }
+
+class Test {
     public static void main(String[] args) {
-        for(;;){}
+        System.out.println("Hello World");
     }
 }

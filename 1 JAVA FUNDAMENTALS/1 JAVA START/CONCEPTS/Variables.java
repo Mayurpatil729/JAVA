@@ -19,3 +19,4 @@ public class Variables {
 // 1.Instance Variables
 // 2.Static Variables
 // 3.Local Variables
+

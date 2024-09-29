@@ -3,15 +3,15 @@ import java.util.*;
 
 class Time {
     public static void main(String[] args) {
-        StringBuffer s=new StringBuffer();
+        StringBuffer s = new StringBuffer();
 
-        Date start=new Date();
+        Date start = new Date();
 
-        for(int i=0;i<100000;i++)
-            s=s.append("a");
+        for (int i = 0; i < 100000; i++)
+            s = s.append("a");
 
-        Date end=new Date();
+        Date end = new Date();
 
-        System.out.println("Processing time : "+(end.getTime()-start.getTime()+"ms"));
+        System.out.println("Processing time : " + (end.getTime() - start.getTime() + "ms"));
     }
 }

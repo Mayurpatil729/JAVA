@@ -11,12 +11,17 @@ public class Main {
 //main : This is name which is configured inside JVM
 //(String[] args) : Command Line arguments.
 
+//--------------------------------------------------------------------------
+
 //modifiers are interchangeable
 //main(String[] args)
 //main(String args[])
 //main(String...args)
 //main(String...java)
 //final synchronized strictfp
+
+
+
 
 
 
